@@ -7,3 +7,4 @@ kaggle
 nltk
 scikit-learn
 xgboost
+sentence-transformers
