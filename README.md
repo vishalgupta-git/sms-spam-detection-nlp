@@ -49,7 +49,7 @@ The models are evaluated using a custom pipeline that generates **Confusion Matr
 
 1.  **Clone the repo:**
     ```bash
-    git clone [https://github.com/vishalgupta-git/sms-spam-classifier.git](https://github.com/vishalgupta-git/sms-spam-classifier.git)
+    git clone https://github.com/vishalgupta-git/sms-spam-classifier.git
     cd sms-spam-classifier
     ```
 
