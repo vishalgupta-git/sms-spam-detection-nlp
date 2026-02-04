@@ -49,8 +49,8 @@ The models are evaluated using a custom pipeline that generates **Confusion Matr
 
 1.  **Clone the repo:**
     ```bash
-    git clone https://github.com/vishalgupta-git/sms-spam-detection.git
-    cd sms-spam-classifier
+    git clone https://github.com/vishalgupta-git/sms-spam-detection-nlp.git
+    cd sms-spam-detection-nlp
     ```
 
 2.  **Install requirements:**
